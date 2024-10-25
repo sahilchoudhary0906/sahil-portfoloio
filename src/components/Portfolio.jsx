@@ -32,7 +32,7 @@ const Portfolio = () => {
         
         <div className="first flex items-center">
           <img
-            src="./src/assets/rollinglogo.png"
+            src="./rollinglogo.png"
             alt="Rolling Dice"
             className="rounded-3xl w-[350px] hover:scale-90 duration-150 cursor-pointer"
             onClick={handleRollingDiceClick}
@@ -48,7 +48,7 @@ const Portfolio = () => {
         )}
         <div className="first flex items-center">
           <img
-            src="./src/assets/currencylogo.png"
+            src="./currencylogo.png"
             alt="Currency Converter"
             className="rounded-3xl w-[350px] hover:scale-90 duration-150 cursor-pointer"
             onClick={handleCurrencyConverterClick}
@@ -64,7 +64,7 @@ const Portfolio = () => {
         )}
         <div className="second flex items-center">
           <img
-            src="./src/assets/lovelogo.png"
+            src="./lovelogo.png"
             alt="Love Calculator"
             className="rounded-3xl w-[350px] hover:scale-90 duration-150 cursor-pointer"
             onClick={handleLoveCalcClick}
@@ -80,7 +80,7 @@ const Portfolio = () => {
         )}
         <div className="first flex items-center">
           <img
-            src="./src/assets/healthcare.png"
+            src="./healthcare.png"
             alt="Health-Care Services"
             className="rounded-3xl w-[350px] hover:scale-90 duration-150 cursor-pointer"
             onClick={handleHealthcareClick}
