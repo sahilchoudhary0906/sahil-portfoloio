@@ -22,7 +22,7 @@ const Navbar = () => {
           </a>
         ))}
         <a
-          href="/src/assets/sahil resume  .pdf" 
+          href="./sahil resume  .pdf" 
           download 
           className="text-white text-lg font-medium relative transition duration-300 hover:scale-110"
         >
